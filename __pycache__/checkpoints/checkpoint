@@ -1,0 +1,2 @@
+model_checkpoint_path: "textcnn_imdb_ckpt"
+all_model_checkpoint_paths: "textcnn_imdb_ckpt"
